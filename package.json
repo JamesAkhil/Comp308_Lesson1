@@ -1,0 +1,17 @@
+{
+  "name": "comp308-w2018-lesson1",
+  "version": "1.0.0",
+  "description": "Node and express demo for COMP 308",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
